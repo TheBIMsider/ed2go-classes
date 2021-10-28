@@ -8,4 +8,4 @@ Create state-of-the-art, modern websites like the pros using CSS3 and HTML5. Thi
 
 The class was taught by **Alan Simpson**, and he did a great job. I highly recoment taking a class taugh by Alan if you have the chance and are new to coding, or just new to the topic he is covering. Check out his website [HERE](https://alansimpson.me/) where he has lots of great tips and freebies.  
 
-* [Final Project](https://github.com/TheBIMsider/ed2go-classes/blob/main/Intro-CSS3-HTML5/index.htm/)  
+* [Final Project](https://github.com/TheBIMsider/ed2go-classes/Intro-CSS3-HTML5/final-project/)  
