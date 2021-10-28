@@ -6,6 +6,6 @@ This is place to keep my projects from the [ed2go](https://www.ed2go.com/) class
 #### [Introduction to CSS3 and HTML5](https://www.ed2go.com/courses/computer-science/programming/ilc/css-and-xhtml-introduction)
 Create state-of-the-art, modern websites like the pros using CSS3 and HTML5. This course will provide you with the foundation you need to master these two critical and fast-growing new web languages through hands-on training and expert instruction. 
 
-The class was taught by #### Alan Simpson, and he did a great job. I high recoment taking a class taugh by Alan if you have the chance and are new to coding, or just new to the topic he is covering. Check out his site [HERE](https://alansimpson.me/) where he has lots of great tips and freebies.  
+The class was taught by **Alan Simpson**, and he did a great job. I high recoment taking a class taugh by Alan if you have the chance and are new to coding, or just new to the topic he is covering. Check out his site [HERE](https://alansimpson.me/) where he has lots of great tips and freebies.  
 
 * [Final Project](https://thebimsider.github.io/scrimba-weekly-challenges/Word-Count/V1/)  
