@@ -18,4 +18,4 @@ The was another class taught by **Alan Simpson**, and he did a great job as alwa
 * Lesson 5 - [FAQ Page](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson5-2/)      
 * Lesson 5 - [Small Thumbnail Gallery](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson5-3/)   
 * Lesson 5 - [Large Thumbnail Gallery](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson5-4/)   
-* Lesson 5 - [Assignment 5](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson5-A/)  
+* Lesson 5 - [Assignment 5](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson5-A/) Hover over image text appears.      
