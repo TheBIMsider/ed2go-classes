@@ -15,4 +15,4 @@ Use CSS3 and HTML5 to streamline code that adapts to a variety of devices, scree
 
 The was another class taught by **Alan Simpson**, and he did a great job as always!.   
 
-* Lesson 5 - [FAQ Page](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson5-2/lesson5-2/)      
+* Lesson 5 - [FAQ Page](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson5-3/)      
