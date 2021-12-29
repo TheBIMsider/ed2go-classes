@@ -22,4 +22,4 @@ The was another class taught by **Alan Simpson**, and he did a great job as alwa
 * Lesson 11 - [Transform](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson11-1/)      
 * Lesson 11 - [Thumbnail Zoom](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson11-2/)      
 * Lesson 11 - [Assignment 11](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson11-A/) Improved Hover over image text appears.   
-* Lesson 12 - [Right Click](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson12-1/)    
+* Lesson 12 - [Right Click](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson12-1/) Right clicking produces a copyright warning
