@@ -23,3 +23,9 @@ The was another class taught by **Alan Simpson**, and he did a great job as alwa
 * Lesson 11 - [Thumbnail Zoom](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson11-2/)      
 * Lesson 11 - [Assignment 11](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson11-A/) Improved Hover over image text appears.   
 * Lesson 12 - [Right Click](https://thebimsider.github.io/ed2go-classes/Inter-CSS3-HTML5/Lesson12-1/) Right clicking produces a copyright warning
+
+#### [Advanced to CSS3 and HTML5](https://www.ed2go.com/courses/computer-science/programming/ilc/advanced-css3-html5)
+Learn the essentials of CSS3 and HTML5—languages that have redefined how modern web pages are created. In this course, you'll gain hands-on experience as you learn to design fast, intuitive, and exciting websites that are both interactive and responsive.
+
+The class was taught by **David Karlins**. This was my first class with David and he did a great job.
+* [Final Project](https://thebimsider.github.io/ed2go-classes/Intro-CSS3-HTML5/final-project/)   
