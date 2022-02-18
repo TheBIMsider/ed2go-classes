@@ -28,4 +28,4 @@ The was another class taught by **Alan Simpson**, and he did a great job as alwa
 Learn the essentials of CSS3 and HTML5—languages that have redefined how modern web pages are created. In this course, you'll gain hands-on experience as you learn to design fast, intuitive, and exciting websites that are both interactive and responsive.
 
 The class was taught by **David Karlins**. This was my first class with David and he did a great job.
-* [Final Project](https://thebimsider.github.io/ed2go-classes/Intro-CSS3-HTML5/final-project/)   
+* [Final Project](https://thebimsider.github.io/ed2go-classes/Advan-CSS3-HTML5/final-project/)   
