@@ -1,0 +1,127 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Color Theme Swatches in Hex */
+.wpresaw-1-hex { color: #0014BF; }
+.wpresaw-2-hex { color: #616161; }
+.wpresaw-3-hex { color: #FF6D11; }
+.wpresaw-4-hex { color: #00084F; }
+.wpresaw-5-hex { color: #B5B5B5; }
+
+/* Color Theme Swatches in RGBA 
+.wpresaw-1-rgba { color: rgba(0, 20, 191, 1); }
+.wpresaw-2-rgba { color: rgba(97, 97, 97, 1); }
+.wpresaw-3-rgba { color: rgba(255, 109, 17, 1); }
+.wpresaw-4-rgba { color: rgba(0, 8, 79, 1); }
+.wpresaw-5-rgba { color: rgba(181, 181, 181, 1); } */
+
+/* Color Theme Swatches in HSLA 
+.wpresaw-1-hsla { color: hsla(233, 100, 37, 1); }
+.wpresaw-2-hsla { color: hsla(0, 0, 38, 1); }
+.wpresaw-3-hsla { color: hsla(23, 100, 53, 1); }
+.wpresaw-4-hsla { color: hsla(233, 100, 15, 1); }
+.wpresaw-5-hsla { color: hsla(0, 0, 70, 1); } */
+
+/* The body tag style applies to all elements on the page */
+body {
+background-color: #00084F;
+font-family: Verdana, Geneva, Arial, sans-serif;
+padding:0px;
+margin:0px;
+}
+
+/* The wrapper ID style is used with a div tag to provide a 960px wide page */
+#wrapper {
+width: 960px;
+height: 800px;
+margin-left: auto;
+margin-right: auto;
+background-color: #FF6D11 ;
+}
+
+/* The right-column ID style is floated right */
+#right-column {
+float: right;
+width: 600px;
+height: 600px;
+background-color:#B5B5B5;
+}
+
+/* The left-column ID style is floated left */
+#left-column {
+float: left;
+width: 360px;
+background-color:#616161;
+height:600px;
+}
+
+/* Defining a style for a set of tags separated by commas applies the style to all tags */
+h1,h2,h3,h4,h5,h6,p,li {
+margin-left:15px;
+}
+
+h1,h2 {
+font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+#footer {
+height:80px;
+}
+
+#banner{
+height:120px;
+background-color:#FF6D11;
+}
+
+/* Defining a style for a set of tags not separated by commas applies the style only to all tags within the preceding tag*/
+#banner h1 {
+color: #0014BF;
+}
+
+/* Advanced Web design relies on class or ID styles, never tables */
+.box {
+height: 150px;
+width: 150px;
+float: left;
+/*background-color:#616161;*/
+margin: 15px;
+opacity:.5;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b5b5b5+0,616161+99 */
+background: #b5b5b5; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #b5b5b5 0%, #616161 99%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  #b5b5b5 0%,#616161 99%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  #b5b5b5 0%,#616161 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5b5b5', endColorstr='#616161',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+/* The following pseudo-class applies to the box class when in a hovered state */
+.box:hover {
+background-color:#FF6D11;
+opacity:1;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff6d11+0,ff6d11+61,0014bf+100 */
+background: #ff6d11; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #ff6d11 0%, #ff6d11 61%, #0014bf 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  #ff6d11 0%,#ff6d11 61%,#0014bf 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  #ff6d11 0%,#ff6d11 61%,#0014bf 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff6d11', endColorstr='#0014bf',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+/* This clear class style terminates float */
+.clear{ 
+clear: both; 
+}
+
+/* links */
+a {color:#FF6D11;}         /* Unvisited link  */
+a:visited {color:#FF6D11;} /* Visited link    */
+a:hover {color:#0014BF;}   /* Mouse over link */
+a:active {color:#00084F;}  /* Selected link   */
+
+header, footer {  	
+  background-color: white;
+  color: red;
+  padding-top:5px;
+  padding-bottom:5px;  
+  }

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Feedback</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <!-- Google Font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="wrapper">
+      <h1>Please share your feedback</h1>
+      <form
+        action="feedback.php"
+        method="post"
+        id="tswfbform"
+        accept-charset="UTF-8"
+      >
+        <p>
+          <label for="tswname">Name</label>
+          <input
+            type="text"
+            name="fullname"
+            placeholder="Your name or nickname here"
+            style="max-width: 100%"
+            id="tswname"
+            size="39"
+            required
+          /><br />&nbsp;<br />
+        </p>
+        <p>
+          <label for="tswemail">Email</label>
+          <input
+            type="email"
+            style="max-width: 100%"
+            id="tswemail"
+            name="email"
+            placeholder="Your email here (required)"
+            size="39"
+            required
+          /><br />&nbsp;<br />
+        </p>
+        <p>
+          <label for="tswcomments">Comments</label><br />&nbsp;<br />
+          <textarea
+            rows="15"
+            cols="45"
+            name="comments"
+            style="max-width: 100%"
+            id="tswcomments"
+          ></textarea>
+          <br />&nbsp;<br />
+        </p>
+        <p>
+          <label for="date">What's your birthday?</label>
+          <input type="date" name="birthday" />
+        </p>
+        <p>
+          <label for="color"
+            >Please choose the color shirt you wish to order</label
+          >
+          <input type="color" name="shirt-color" />
+        </p>
+        <p>
+          <label for="quantity">How many shirts do you wish to order?</label>
+          <input type="number" name="quantity" />
+        </p>
+        <p>
+          <input id="tswsubmit" type="submit" value="Send Feedback" />
+        </p>
+        <p>
+          <input type="reset" value="Click here to reset the form" />
+        </p>
+      </form>
+    </div>
+  </body>
+</html>
