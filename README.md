@@ -38,5 +38,4 @@ The class was taught by **David Karlins**. This is my 2nd class with David, and 
 
 * [Class 5 Assignment](https://thebimsider.github.io/ed2go-classes/RWD/Lesson_5/)   
 * [Class 6 Assignment](https://thebimsider.github.io/ed2go-classes/RWD/Lesson_6/)    
-* 
 
