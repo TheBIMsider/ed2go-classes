@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Connect!</title>
+    <style>
+
+      @media (max-width:480px) {
+      
+      label{
+      display:none;
+      }
+
+      input {
+        background-color: bisque;
+        font-weight: bold;
+      }
+
+      h1, p {
+        color: blue;
+      }
+      
+      }
+      
+      </style>
+  </head>
+
+  <body>
+    <form action="http://davidkarlins.com/welcome.php" method="post">
+      <h1>Contact Info...</h1>
+
+      <p>
+        <label for="name" >Name: </label>
+
+        <input name="name" id="name" placeholder="Enter your name here"/>
+      </p>
+
+      <p>
+        <label for="email">Email: </label>
+
+        <input type="email" name="email" id="email" placeholder="Enter your email here" required/>
+      </p>
+
+      <p>
+        <label for="url">URL: </label>
+
+        <input type="url" name="url" id="url" placeholder="Enter your website here"/>
+      </p>
+
+      <p>
+        <label for="phone">Phone: </label>
+
+        <input type="tel" name="phone" id="phone" placeholder="Enter your phone here"/>
+      </p>
+
+      <p>
+        Best time to call:
+
+        <input type="time" name="time" id="time" />
+      </p>
+
+      <p><input type="submit" value="connect!" /></p>
+    </form>
+  </body>
+</html>
