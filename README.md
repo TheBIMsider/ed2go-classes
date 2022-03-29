@@ -31,7 +31,7 @@ The class was taught by **David Karlins**. This was my first class with David an
 
 * [Final Project](https://thebimsider.github.io/ed2go-classes/Advan-CSS3-HTML5/final-project/)   
 
-#### [Responsive Wen Design](https://www.ed2go.com/courses/computer-science/programming/ilc/advanced-css3-html5)
+#### [Responsive Web Design](https://www.ed2go.com/courses/computer-science/programming/ilc/advanced-css3-html5)
 Create websites that are intuitive, inviting, accessible, and attractive. This course will teach you to design and build fully responsive websites optimized for smartphones, tablets, and laptop/desktop viewing environments.    
 
 The class was taught by **David Karlins**. This is my 2nd class with David, and again it was well taught.   
